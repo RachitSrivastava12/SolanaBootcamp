@@ -1,4 +1,4 @@
-# 🛠️ Favorites Program on Solana
+# 🛠️ Project 1 :  Favorites Program on Solana
 
 This is a Solana program written in Rust using the Anchor framework. It enables users to store their favorite number, color, and hobbies on the blockchain.
 
